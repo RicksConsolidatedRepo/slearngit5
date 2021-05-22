@@ -1,1 +1,1 @@
-We are teaching git ammmend command
+We are teaching git ammend command
